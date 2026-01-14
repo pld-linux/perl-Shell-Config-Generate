@@ -8,7 +8,7 @@ Summary:	Shell::Config::Generate - portably generate config for any shell
 Summary(pl.UTF-8):	Shell::Config::Generate - przenośne generowanie konfiguracji dla dowolnej powłoki
 Name:		perl-Shell-Config-Generate
 Version:	0.34
-Release:	1
+Release:	2
 # same as perl 5
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
